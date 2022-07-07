@@ -1,0 +1,22 @@
+{
+  "name": "firstpackage",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Areliya13/someTestRepository.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Joe <joe@whatever.com> (https://whatever.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Areliya13/someTestRepository/issues"
+  },
+  "homepage": "https://github.com/Areliya13/someTestRepository#readme"
+}
