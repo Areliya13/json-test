@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Areliya13/someTestRepository/issues"
   },
-  "homepage": "https://github.com/Areliya13/someTestRepository#readme"
+  "homepage": "https://github.com/Areliya13/someTestRepository#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
 }
